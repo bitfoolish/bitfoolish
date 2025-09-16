@@ -7,7 +7,7 @@
 [![My Skills](https://skillicons.dev/icons?i=py,java,c,mysql,cpp,haskell)](https://skillicons.dev)
 
 #### Operating Systems
-[![My Skills](https://skillicons.dev/icons?i=linux, windows)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,windows)](https://skillicons.dev)
 
 #### Other
 [![My Skills](https://skillicons.dev/icons?i=docker,git,bash)](https://skillicons.dev)
