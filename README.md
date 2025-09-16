@@ -1,14 +1,16 @@
 ## Hi there 👋
 
 #### Web Development
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,bootstrap)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,bootstrap,django)](https://skillicons.dev)
 
 #### Programming Languages
-[![My Skills](https://skillicons.dev/icons?i=py,java,c,sql,haskell)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,java,c,mysql,cpp,haskell)](https://skillicons.dev)
 
 #### Operating Systems
 [![My Skills](https://skillicons.dev/icons?i=linux, windows)](https://skillicons.dev)
 
+#### Other
+[![My Skills](https://skillicons.dev/icons?i=docker,git,bash)](https://skillicons.dev)
 <!--
 **bitfoolish/bitfoolish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
