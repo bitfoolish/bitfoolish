@@ -22,7 +22,7 @@ Feel free to have a poke around some of my projects and reach out if there's any
 [![My Skills](https://skillicons.dev/icons?i=docker,pytorch,git,githubactions,bash)](https://skillicons.dev)
 
 #### Operating Systems & Personal Setup
-[![My Skills](https://skillicons.dev/icons?i=linux,windows, obsidian)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,windows,obsidian)](https://skillicons.dev)
 
 
 <!--
