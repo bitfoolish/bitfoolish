@@ -13,7 +13,7 @@ Feel free to have a poke around some of my projects and reach out if there's any
 > Expanding base tool from previous years to include things such as: no repeats from previous years, interests per user etc.
  
 #### Programming Languages
-[![My Skills](https://skillicons.dev/icons?i=py,sql,postgres,java,cpp,c,haskell)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,mysql,postgres,java,cpp,c,haskell)](https://skillicons.dev)
 
 #### Web Development & Frameworks
 [![My Skills](https://skillicons.dev/icons?i=fastapi,django,react,js,html,css,bootstrap)](https://skillicons.dev)
@@ -21,7 +21,7 @@ Feel free to have a poke around some of my projects and reach out if there's any
 #### DevOps, Security & Tools
 [![My Skills](https://skillicons.dev/icons?i=docker,pytorch,git,githubactions,bash)](https://skillicons.dev)
 
-#### Operating Systems + Personal Setup
+#### Operating Systems & Personal Setup
 [![My Skills](https://skillicons.dev/icons?i=linux,windows, obsidian)](https://skillicons.dev)
 
 
