@@ -1,16 +1,30 @@
 ## Hi there 👋
 
-#### Web Development
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,bootstrap,django)](https://skillicons.dev)
+Feel free to have a poke around some of my projects and reach out if there's any queries!
 
+### Active Projects
+**Final-year project : Nodens**
+> An end-to-end platform designed to analyse _canine_ movement and gait patterns using computer vision and deep learning.
+
+**Sun Blocker** 
+> Building a predictor tool for when the sun will hit your window and recommending a change in blind positioning based on that.
+
+**Kris-kindle**
+> Expanding base tool from previous years to include things such as: no repeats from previous years, interests per user etc.
+ 
 #### Programming Languages
-[![My Skills](https://skillicons.dev/icons?i=py,java,c,mysql,cpp,haskell)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,sql,postgres,java,cpp,c,haskell)](https://skillicons.dev)
 
-#### Operating Systems
-[![My Skills](https://skillicons.dev/icons?i=linux,windows)](https://skillicons.dev)
+#### Web Development & Frameworks
+[![My Skills](https://skillicons.dev/icons?i=fastapi,django,react,js,html,css,bootstrap)](https://skillicons.dev)
 
-#### Other
-[![My Skills](https://skillicons.dev/icons?i=docker,git,bash)](https://skillicons.dev)
+#### DevOps, Security & Tools
+[![My Skills](https://skillicons.dev/icons?i=docker,pytorch,git,githubactions,bash)](https://skillicons.dev)
+
+#### Operating Systems + Personal Setup
+[![My Skills](https://skillicons.dev/icons?i=linux,windows, obsidian)](https://skillicons.dev)
+
+
 <!--
 **bitfoolish/bitfoolish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
